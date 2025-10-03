@@ -1,5 +1,7 @@
 # Comp Graphics Lecture 4 Github
 
+All 3 are toggleable with the 1, 2, and 3 keys on the keyboard
+
 Lambert:
 
 <img width="808" height="509" alt="image" src="https://github.com/user-attachments/assets/fe65a9be-4bda-40d5-9f06-726f9470b198" />
